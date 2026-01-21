@@ -2,25 +2,29 @@
 
 Amni Ayouba Mhoma
  
-Identification du Système d’Information existant
-1)Le système d’information actuel de la clinique est composé de plusieurs éléments non harmonisés.
+1)Identification du Système d’Information existant
+
+Le système d’information actuel de la clinique est composé de plusieurs éléments non harmonisés.
 a) Les acteurs :
 Les médecins : réalisent les consultations et posent les diagnostics
 Les infirmiers : assurent les soins et le suivi des patients
 Les caissiers : gèrent la facturation et les paiements
 L’administration : gère l’admission des patients et l’organisation
 Les patients : bénéficiaires des services de la clinique
+
 b) Les données utilisées :
 Identité du patient (nom, prénom, âge, contact)
 Diagnostics médicaux
 Soins et traitements
 Paiements et factures
 Historique médical
+
 c) Les outils existants :
 Un logiciel pour l’accueil et l’admission
 Un autre logiciel pour la consultation médicale
 Un fichier Excel pour la facturation
 Des dossiers papier pour l’historique médical
+
 d) Les processus actuels :
 Admission du patient à l’accueil
 Consultation médicale avec le médecin
@@ -28,31 +32,40 @@ Enregistrement des soins
 Facturation via Excel
 Archivage de l’historique sur papier
  Cela montre que le SI existe, mais qu’il est fragmenté et mal coordonné.
+
 2)Problèmes liés à la non-harmonisation
+
 La non-harmonisation des systèmes entraîne plusieurs difficultés :
-Duplication des données patients dans plusieurs supports
-Incohérences entre les informations médicales et administratives
-Perte ou détérioration des dossiers papier
-Retards dans la prise en charge des patients
-Erreurs fréquentes de facturation
-Difficulté à produire des rapports fiables
-Manque de visibilité globale pour la direction
+.Duplication des données patients dans plusieurs supports
+.Incohérences entre les informations médicales et administratives
+.Perte ou détérioration des dossiers papier
+.Retards dans la prise en charge des patients
+.Erreurs fréquentes de facturation
+.Difficulté à produire des rapports fiables
+.Manque de visibilité globale pour la direction
 Types de SI concernés
+
 3)Les systèmes utilisés peuvent être classés comme suit :
+
 SI opérationnel :
 Logiciels d’admission, de consultation et facturation
 → Ils gèrent les activités quotidiennes.
+
 SI décisionnel :
 Rapports réalisés à partir d’Excel
 → Aide la direction à prendre des décisions.
+
 SI collaboratif :
 Partage d’informations entre médecins, infirmiers et administration
 → Facilite la communication interne.
+
 SI stratégique :
 Données utilisées pour planifier l’évolution de la clinique
 → Sert à définir les orientations futures.
 Proposition d’une solution d’harmonisation
+ 
 4)La solution proposée est la mise en place d’un Dossier Patient Unique (DPU).
+
 a) Principe du DPU :
 Un dossier numérique centralisé regroupant toutes les informations du patient :
 identité
@@ -60,14 +73,17 @@ historique médical
 diagnostics
 soins
 facturation
+
 b) Accès à la même information :
 Tous les services autorisés accèdent à une base de données commune.
 Chaque modification est visible en temps réel.
+
 c) Règles de base :
 Droits d’accès selon le rôle (médecin, infirmier, caissier…)
 Mise à jour unique des données
 Traçabilité des actions
 Sauvegarde régulière
+
 5)Bénéfices attendus
 La mise en place du DPU apportera plusieurs avantages :
 Amélioration de la qualité des soins
@@ -77,6 +93,7 @@ Meilleure facturation
 Accès rapide à l’historique patient
 Meilleure prise de décision
 Amélioration de l’image de la clinique
+
 Conclusion
 Le système d’information actuel de la clinique est fragmenté et peu efficace.
 La mise en place d’un Dossier Patient Unique permettra d’harmoniser les données,
